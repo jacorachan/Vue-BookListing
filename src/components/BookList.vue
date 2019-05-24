@@ -10,7 +10,7 @@ export default {
   name: 'BookList',
   data() {
     return {
-      title: 'All books',
+      title: 'All Books',
     };
   },
 };
@@ -18,6 +18,6 @@ export default {
 
 <style>
 h1, h2 {
-  font-weight: 100;
+  font-weight: normal;
 }
 </style>
